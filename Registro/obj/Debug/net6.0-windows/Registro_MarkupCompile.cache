@@ -1,5 +1,5 @@
 ﻿Registro
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\luca.sambuco\source\repos\Registro\Registro\App.xaml
 11407045341
 
-52116901159
+3-1233169557
 194618410957
 MainWindow.xaml;
 
-True
+False
 
